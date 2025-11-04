@@ -1,0 +1,2 @@
+password=ayush123
+hash=$2b$10$4YGgqvdsp7yURYV7TAiJw.ns8LX.h2zNWJQvFb8hXdM6DLc/80b5.
